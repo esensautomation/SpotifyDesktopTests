@@ -1,0 +1,6 @@
+com\spotify\automation\desktop\steps\SpotifyDesktopInitializationSteps$1.class
+com\spotify\automation\desktop\steps\SpotifyDesktopValidationSteps.class
+com\spotify\automation\desktop\enumerations\SpotifyInstallerType.class
+com\spotify\automation\desktop\steps\SpotifyDesktopActionSteps.class
+com\spotify\automation\desktop\steps\SpotifyDesktopInitializationSteps.class
+com\spotify\automation\desktop\steps\SpotifyDesktopScenarioContext.class
